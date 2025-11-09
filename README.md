@@ -6,5 +6,5 @@
 
 ### Skills
 
-## Contact
+#### Contact
 Taneli.Alahuhta@gmail.com
