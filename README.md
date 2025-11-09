@@ -2,5 +2,3 @@
 
 ### Education
 Studying at the University of Oulu
-
-logo
