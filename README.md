@@ -1,4 +1,10 @@
 # Electronics & Communications Engineering Student
 
-### Education
-Studying at the University of Oulu
+### About Me
+
+### Projects
+
+### Skills
+
+## Contact
+Taneli.Alahuhta@gmail.com
